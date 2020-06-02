@@ -1,0 +1,6 @@
+.fitz-list-wrap {
+    column-count: 2;
+    .fitz-list {
+        break-inside: avoid;
+    }
+}
